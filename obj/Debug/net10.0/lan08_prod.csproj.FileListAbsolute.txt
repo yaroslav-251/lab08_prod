@@ -1,0 +1,14 @@
+/Users/yaroslav/Desktop/lan08_prod/bin/Debug/net10.0/lan08_prod
+/Users/yaroslav/Desktop/lan08_prod/bin/Debug/net10.0/lan08_prod.deps.json
+/Users/yaroslav/Desktop/lan08_prod/bin/Debug/net10.0/lan08_prod.runtimeconfig.json
+/Users/yaroslav/Desktop/lan08_prod/bin/Debug/net10.0/lan08_prod.dll
+/Users/yaroslav/Desktop/lan08_prod/bin/Debug/net10.0/lan08_prod.pdb
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.AssemblyInfo.cs
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.dll
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/refint/lan08_prod.dll
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.pdb
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.genruntimeconfig.cache
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/ref/lan08_prod.dll
