@@ -12,3 +12,4 @@
 /Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.pdb
 /Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.genruntimeconfig.cache
 /Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/ref/lan08_prod.dll
+/Users/yaroslav/Desktop/lan08_prod/obj/Debug/net10.0/lan08_prod.sourcelink.json
